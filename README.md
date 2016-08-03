@@ -4,8 +4,7 @@ web-bluetooth
 この資料は [Web Bluetooth API](https://webbluetoothcg.github.io/web-bluetooth/) の日本語ドキュメントです。
 
 W3C [Web Bluetooth Community Group](http://www.w3.org/community/web-bluetooth/) から許可を得て翻訳をしていますが、公式ドキュメントではありません。
-
-翻訳による内容の正確さおよび最新の内容を保証するものではありませんので、あくまで参考として利用していただき、適宜、W3Cの [原文](https://webbluetoothcg.github.io/web-bluetooth/)を参照していただくようお願いします。
+翻訳による内容の正確さおよび最新の内容を保証するものではありませんので、あくまで参考として利用していただき、適宜、W3Cの[原文](https://webbluetoothcg.github.io/web-bluetooth/)を参照していただくようお願いします。
 
 （翻訳に対するフィードバックや ご指摘があれば随時受け付けています。）
 
