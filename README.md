@@ -1,7 +1,7 @@
 web-bluetooth
 =============
 
-この資料は Web Bluetooth API の日本語ドキュメントです。
+この資料は [Web Bluetooth API](https://webbluetoothcg.github.io/web-bluetooth/) の日本語ドキュメントです。
 
 W3C [Web Bluetooth Community Group](http://www.w3.org/community/web-bluetooth/) から許可を得て翻訳をしていますが、公式ドキュメントではありません。
 
