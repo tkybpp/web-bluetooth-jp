@@ -11,10 +11,6 @@ W3C [Web Bluetooth Community Group](http://www.w3.org/community/web-bluetooth/) 
 
 -------------
 
-Bluetooth support for the Web.
-
-This is a project of the W3C [Web Bluetooth Community Group](http://www.w3.org/community/web-bluetooth/). We have a [charter](charter.md).
-
 仕様
 -------------
 * [原文](https://webbluetoothcg.github.io/web-bluetooth/) (サンプルを含む)
